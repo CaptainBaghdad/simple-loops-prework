@@ -38,7 +38,8 @@ def while_iterator(number_of_times)
   coun = 0;
   while coun < number_of_times
   
-  
+  puts phrase
+  coun = coun +1
   
 end 
 end
